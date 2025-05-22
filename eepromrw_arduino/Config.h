@@ -1,0 +1,2 @@
+#define CHUNK_SIZE 1024
+#define BAUD 115200
